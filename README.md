@@ -1,4 +1,4 @@
-### Hi I'm Raúl👋 a Frontend developer with special affection to React 
+### Hi I'm Raúl👋 a Frontend developer with special affection to React and Typescripts
 
 <!--
 **raulrod16124/raulrod16124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
