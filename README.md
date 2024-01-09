@@ -6,6 +6,6 @@ I'm always on the move, bringing a 😄 cheerful and **proactive** attitude to e
 
 Take a look 👀:
 
-[![Matchup](https://github.com/raulrod16124/matchup/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png)](https://play.google.com/store/apps/details?id=com.matchupcardgame2023) [![Chicmouse](https://github.com/raulrod16124/chicmouse/blob/main/src/assets/chicmouseCharacter.png)](https://chicmouse.com/)
+[![Matchup](https://github.com/raulrod16124/matchup/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png)](https://play.google.com/store/apps/details?id=com.matchupcardgame2023)          [![Chicmouse](https://github.com/raulrod16124/chicmouse/blob/main/src/assets/chicmouseCharacter.png)](https://chicmouse.com/)
 
 I thrive in collaborative environments, cherish **teamwork**, and let's not forget my deep love for ☕ **coffee**! Let's connect and code something **amazing** together! 💻🤝
