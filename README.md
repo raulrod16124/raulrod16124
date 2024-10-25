@@ -10,11 +10,11 @@ Take a look 👀:
   <a href="https://play.google.com/store/apps/details?id=com.matchupcardgame2023">
     <img src="https://github.com/raulrod16124/matchup/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" alt="matchup image" />
   </a>
-  <a href="https://chicmouse.com/">
-    <img src="https://github.com/raulrod16124/chicmouse/blob/main/src/assets/chicmouseCharacter.png" alt="chicmouse image" />
-  </a>
   <a href="https://raulrodriguez.dev/">
     <img src="https://github.com/raulrod16124/raulrodriguez/blob/main/public/favicon.ico" alt="raulrodriguez image" />
+  </a>
+  <a href="https://chicmouse.com/">
+    <img src="https://github.com/raulrod16124/chicmouse/blob/main/src/assets/chicmouseCharacter.png" alt="chicmouse image" />
   </a>
 </ul>
 
