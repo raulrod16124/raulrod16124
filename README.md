@@ -13,6 +13,9 @@ Take a look 👀:
   <a href="https://chicmouse.com/">
     <img src="https://github.com/raulrod16124/chicmouse/blob/main/src/assets/chicmouseCharacter.png" alt="chicmouse image" />
   </a>
+  <a href="https://raulrodriguez.dev/">
+    <img src="https://github.com/raulrod16124/raulrodriguez/blob/main/public/favicon.ico" alt="raulrodriguez image" />
+  </a>
 </ul>
 
 I thrive in collaborative environments, cherish **teamwork**, and let's not forget my deep love for ☕ **coffee**! Let's connect and code something **amazing** together! 💻🤝
