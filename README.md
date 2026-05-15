@@ -1,7 +1,13 @@
-# Hey there👋!
+## Frontend Engineer
 
-I'm a **Frontend Developer** with a passion for 🚀**React**, 📱**React Native**, 🔧 **Typescript**, 🧪 Jest and Google Cloud. 
+Frontend Engineer especializado en React y TypeScript, centrado en el desarrollo de productos digitales escalables y mantenibles.
 
-I'm always on the move, bringing a 😄 cheerful and **proactive** attitude to every project. When I'm not **coding**, you'll find me hitting the gym for some 🏋️‍♂️ **CrossFit** sessions.  In my free time, I love creating my applications with the exciting goal of eventually publishing them for the world to enjoy!
+Actualmente trabajo en la construcción de productos para el sector bancario, colaborando en experiencias frontend orientadas a rendimiento, usabilidad y calidad de código. También desarrollo y publico proyectos propios, explorando nuevas ideas, herramientas y arquitecturas dentro del ecosistema web y mobile.
 
-I thrive in collaborative environments, cherish **teamwork**, and let's not forget my deep love for ☕ **coffee**! Let's connect and code something **amazing** together! 💻🤝
+### Tecnologías principales
+
+- React
+- TypeScript
+- Jest
+- Firebase
+- Google Cloud
