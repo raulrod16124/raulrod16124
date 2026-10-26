@@ -1,9 +1,24 @@
-## Frontend Engineer
+# Senior Frontend Engineer
 
-Frontend Engineer especializado en React y TypeScript, centrado en el desarrollo de productos digitales escalables y mantenibles.
+Frontend Engineer focused on building scalable, maintainable, and user-focused web applications with **React and TypeScript**.
 
-Actualmente trabajo en la construcción de productos para el sector bancario, colaborando en experiencias frontend orientadas a rendimiento, usabilidad y calidad de código. También desarrollo y publico proyectos propios, explorando nuevas ideas, herramientas y arquitecturas dentro del ecosistema web y mobile.
+I currently work on fintech products at **Openbank**, contributing to frontend applications built around **microfrontend and hexagonal architectures**, reusable frontend libraries, testing, and engineering practices focused on code quality and maintainability.
 
-### Tecnologías y herramientas
+Alongside my professional work, I build and publish independent projects where I explore **frontend architecture, design systems, reusable components, performance, accessibility, and modern web development**.
 
-React | TypeScript | Jest | Firebase | Google Cloud | LLM & AI Developer Tools
+### Core expertise
+
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
+- **Architecture:** Frontend Architecture, Microfrontends, scalable application design
+- **Design Systems:** Reusable components, UI systems, design tokens, accessibility
+- **Quality:** Jest, Vitest, Testing Library, unit/integration/E2E testing
+- **Performance:** Rendering optimization, maintainability, frontend performance
+- **Cloud & Backend:** Firebase, Google Cloud, Node.js
+- **Tooling:** Vite, Webpack, Git, CI/CD
+- **AI:** LLM & AI developer tools
+
+### What I care about
+
+Building frontend systems that remain **reliable, understandable, and maintainable as products and teams grow** — while keeping the user experience at the center.
+
+[LinkedIn](https://www.linkedin.com/in/raul-rod/) · [Portfolio](https://raulrodriguez.dev/)
